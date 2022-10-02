@@ -3,10 +3,10 @@ This is a gym management system in php.
 
 SYSTEM FUNCTIONALITES
 
-Register and Login
-Gym Payments
-Scheduling calendar (with javascript)
-Email notifications (with php mailer)
+Register and Login,
+Gym Payments,
+Gym Scheduling calendar (with javascript),
+Email notifications (with php mailer),
 Gym Booking
 
 System screenshots 
